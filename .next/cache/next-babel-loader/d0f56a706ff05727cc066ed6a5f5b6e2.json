@@ -1,0 +1,1 @@
+{"ast":null,"code":"import withLayout from '../comps/MyLayout';","map":{"version":3,"sources":["/Users/torigeorge/Documents/Projects/thankyou-next/pages/index.js"],"names":["withLayout"],"mappings":"AAAA,OAAOA,UAAP,MAAuB,mBAAvB","sourcesContent":["import withLayout from '../comps/MyLayout';\n\n"]},"metadata":{},"sourceType":"module"}
